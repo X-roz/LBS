@@ -1,0 +1,117 @@
+#con{
+  height: 65rem;
+}
+#back{
+    margin-top: 2%;
+    margin-left: 3%;
+    width: 7%;
+    background: #8fdcf3;
+    color: #fff;
+    border: 10px;
+    padding: 8px;
+    border-radius: 40px;
+    cursor: pointer;
+    -moz-box-align: center;
+    text-align: left;
+}
+
+#book-box{
+  display: table;
+  font-family: Bradley Hand, cursive;
+  width:75rem;
+  height:35rem;
+  border:1px solid #000;
+  border: 3px solid rgb(215, 224, 228);
+  margin-top: 3%;
+  margin-left: 5%;
+}
+
+#book-box p{
+  margin-left: 4%;
+}
+
+#book-box #googs {
+    text-transform: capitalize;
+    color: #f1356d;
+}
+
+#from-book{
+  margin-left: 2%;
+  width:20rem;
+  border:1px solid #000;
+  border: 3px solid rgb(215, 224, 228);
+  float: left;
+}
+
+#h{
+  color: rgb(99, 160, 218);
+}
+
+#to-book{
+  margin-left:33%;
+  width:20rem;
+  float: center;
+  border:1px solid #000;
+  border: 3px solid rgb(215, 224, 228);
+}
+
+#googs-book{
+  width:16rem;
+  margin-top: 1%;
+  margin-right: 14%;
+  float: right;
+  border:1px solid #000;
+  border: 3px solid rgb(215, 224, 228);
+}
+
+#driver-box{
+  width: 27rem;
+  border:1px solid #000;
+  border: 3px solid rgb(215, 224, 228);
+  margin-top: 3%;
+  margin-left: 3%;
+  margin-bottom: 6%;
+}
+
+#driver{
+  margin-left: 4%;
+  margin-top: 2%;
+  margin-bottom: 7%;
+}
+
+#driver input {
+  padding: 6px;
+  margin: 10px 0;
+  border: 3px solid rgb(32, 30, 30);
+  box-sizing: border-box;
+  display: block;
+	width: 250px;
+}
+
+#bk{
+  font-family: Bradley Hand, cursive;
+  background: #8fdcf3;
+  color: rgb(17, 16, 16);
+  border: 100;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 40%;
+  margin-bottom: 3%;
+  width: 100px;
+}
+
+#se{
+  margin-top: 5%;
+  margin-bottom: 8%;
+  width: 20rem;
+  border-color: black;
+}
+
+#msg{
+  font-family: Bradley Hand, cursive;
+  float: right;
+  margin-right: 20rem;
+  margin-top: 4rem;
+  color: #f1356d;
+}

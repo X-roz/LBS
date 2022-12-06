@@ -1,0 +1,23 @@
+#d-con{
+    height: 47rem;
+}
+
+#empty{
+    margin-top: 6rem;
+    font-size: larger;
+    padding-left: 10rem;
+}
+
+#dk{
+    font-family: Bradley Hand, cursive;
+    background: #8fdcf3;
+    color: rgb(17, 16, 16);
+    border: 100;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-bottom: 3%;
+    margin-top: 2rem;
+    width: 100px;
+  }

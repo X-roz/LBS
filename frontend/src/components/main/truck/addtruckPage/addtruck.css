@@ -1,0 +1,57 @@
+#tk-container {
+    font-family: Bradley Hand, cursive;
+	display: table;
+	width: 100%;
+	height: 100%;
+    margin-top: 0%;
+  }
+
+#tk-top h2{
+  display: flex;
+  font-size: 22.5px;
+  margin: 0;
+  padding: 2%;
+  color: rgb(24, 21, 21);
+  border-bottom: 3.5px solid rgb(215, 224, 228);
+  border-bottom: 10px rgb(241, 238, 239) rgb(215, 224, 228);
+}
+
+#tk-top p{
+  width: 350px;
+  padding: 10px;
+  margin-top: -5%;
+  margin-left: 60%;
+}
+
+
+#tk-page-content {
+    display: table-cell;
+    width: 85%;
+    vertical-align: top;
+    height: 850px;
+    padding: 10px 0 0 10px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#bb input {
+  padding: 6px;
+  margin: 10px 0;
+  border: 3px solid rgb(32, 30, 30);
+  box-sizing: border-box;
+  display: block;
+	width: 250px;
+}
+
+#bb button {
+  font-family: Bradley Hand, cursive;
+  background: #8fdcf3;
+  color: rgb(17, 16, 16);
+  border: 100;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 10%;
+}

@@ -1,0 +1,47 @@
+.homepage .truck {
+    position:relative;
+    right:200px; 
+    top:70px;
+    width: 800px;
+    border: 5px solid rgb(10, 10, 10);
+    padding: 50px;
+    margin: 110px;
+  }
+  
+  .homepage .truck  a:hover {
+    color: #dd638c;
+  }
+  .homepage .truck  {
+    margin-left: auto;
+  }
+  
+  .homepage .truck  a {
+    font-size: 25px;
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 10px;
+  }
+  .homepage .load {
+    position:relative;
+    right:200px; 
+    top:70px;
+    width: 800px;
+    border: 5px solid rgb(10, 10, 10);
+    padding: 50px;
+    margin: 110px;
+  }
+  
+  
+  .homepage .load  a:hover {
+    color: #dd638c;
+  }
+  .homepage .load  {
+    margin-left: auto;
+  }
+  
+  .homepage .load  a {
+    font-size: 25px;
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 10px;
+  }

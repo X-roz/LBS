@@ -1,0 +1,60 @@
+
+.t-sidebar {
+	display: table-cell;
+	width: 15%;
+	vertical-align: top;
+  background-color: rgb(215, 224, 228);
+}
+#t-head-icon{
+  width: 4rem;
+  margin-top: 10%;
+  font-size: 2.5rem;
+  color: #ec81a5;
+}
+
+.t-sidebar p{
+  text-transform: capitalize;
+  margin-top: 1%;
+  margin-left: 1.2rem;
+  color: black;
+}
+
+.t-sidebarlist{
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin-top: 10%;
+}
+
+
+
+.t-sidebarlist .t-row{
+  width: 100%;
+  height: 70px;
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.t-sidebarlist .t-row:hover{
+  cursor: pointer;
+  color: #dd638c;
+}
+
+.t-sidebarlist  #t-active{
+  background-color: rgb(225, 233, 236);
+}
+
+.t-row #t-icon{
+  flex:30%;
+  display: grid;
+  place-items: center;
+}
+
+.t-row #t-title{
+  flex:100%;
+}

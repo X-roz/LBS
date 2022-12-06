@@ -1,0 +1,58 @@
+#load-container {
+    font-family: Bradley Hand, cursive;
+	display: table;
+	width: 100%;
+	height: 100%;
+    margin-top: 0%;
+  }
+
+  #load-top h2{
+    display: flex;
+    font-size: 22.5px;
+    margin: 0;
+    padding: 2%;
+    color: rgb(24, 21, 21);
+    border-bottom: 3.5px solid rgb(215, 224, 228);
+    border-bottom: 10px rgb(241, 238, 239) rgb(215, 224, 228);
+    text-transform: capitalize;
+  }
+
+  #load-page-content {
+    display: table-cell;
+    width: 85%;
+    vertical-align: top;
+    height: 750px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#load-top #selop{
+    float: right;
+    margin-top: -5%;
+    margin-right: 20%;
+    color: rgb(12, 12, 12);
+    border: 10px;
+    box-sizing: border-box;
+    padding-left: 25px;
+    cursor: pointer;
+    -moz-box-align: center;
+    width: 50%;
+}
+
+#load-top button{
+  float: right;
+  margin-top: -5%;
+  margin-right: 10%;
+  background: #8fdcf3;
+  color: rgb(10, 10, 10);
+  border: 12px;
+  padding:13px;
+  border-radius: 10px;
+  cursor: pointer;
+  -moz-box-align: center;
+  width: 6%;
+}
+
+

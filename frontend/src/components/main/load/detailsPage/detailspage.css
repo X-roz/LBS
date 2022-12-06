@@ -1,0 +1,55 @@
+#details-con{
+    height: 35rem;
+  }
+
+  #det-box{
+    display: table;
+    font-family: Bradley Hand, cursive;
+    width:75rem;
+    height:30rem;
+    border:1px solid #000;
+    border: 3px solid rgb(215, 224, 228);
+    margin-top: 3%;
+    margin-left: 5%;
+  }
+ #goos {
+    text-transform: capitalize;
+    color: #f1356d;
+}
+
+  #det-box p{
+    margin-left: 4%;
+    text-transform: capitalize;
+    
+  }
+  
+  #from-det{
+    margin-left: 2%;
+    width:20rem;
+    border:1px solid #000;
+    border: 3px solid rgb(215, 224, 228);
+    float: left;
+  }
+  
+  #h{
+    color: rgb(99, 160, 218);
+  }
+  
+  #to-det{
+    margin-left:33%;
+    width:20rem;
+    float: center;
+    border:1px solid #000;
+    border: 3px solid rgb(215, 224, 228);
+  }
+  
+  #googs-det{
+    width:16rem;
+    margin-top: 1%;
+    margin-right: 14%;
+    float: right;
+    border:1px solid #000;
+    border: 3px solid rgb(215, 224, 228);
+  }
+  
+  
